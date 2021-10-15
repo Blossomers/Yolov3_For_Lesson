@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>021.JPG</filename>
+	<path>D:\Tencent Files\1307704179\FileRecv\training_data\021.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>402</ymin>
+			<xmax>1939</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+</annotation>

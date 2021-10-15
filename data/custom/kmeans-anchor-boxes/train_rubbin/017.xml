@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>017.JPG</filename>
+	<path>D:\Tencent Files\1307704179\FileRecv\training_data\017.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>587</xmin>
+			<ymin>551</ymin>
+			<xmax>948</xmax>
+			<ymax>1105</ymax>
+		</bndbox>
+	</object>
+</annotation>

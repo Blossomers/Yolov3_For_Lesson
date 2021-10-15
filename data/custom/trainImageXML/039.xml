@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>039.jpg</filename>
+	<path>C:\Users\DEcade\Desktop\datasets\train\images\039.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2018</xmin>
+			<ymin>742</ymin>
+			<xmax>2908</xmax>
+			<ymax>2171</ymax>
+		</bndbox>
+	</object>
+</annotation>
